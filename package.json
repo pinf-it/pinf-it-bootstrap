@@ -1,0 +1,7 @@
+{
+    "uid": "https://github.com/pinf-it/pinf-it-bootstrap/",
+    "name": "pinf-it-bootstrap",
+    "version": "0.1.0",
+    "pm": "sm",
+    "main": "./responder.js"
+}
