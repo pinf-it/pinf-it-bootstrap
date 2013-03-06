@@ -1,0 +1,326 @@
+{
+    "#": "To update this file based on the current dependency tree run: `sm save`",
+    "packages": {
+        "boilerplate": {
+            "archive": "https://github.com/h5bp/html5-boilerplate/tarball/aa9bcbeb5bd8bb667bf232095f001a7272eeffd9"
+        },
+        "bootstrap": {
+            "archive": "https://github.com/twitter/bootstrap/tarball/eb24718add4dd36fe92fdbdb79e6ff4ce5919300"
+        },
+        "express": {
+            "archive": "http://registry.npmjs.org/express/-/express-3.1.0.tgz"
+        },
+        "express/buffer-crc32": {
+            "archive": "http://registry.npmjs.org/buffer-crc32/-/buffer-crc32-0.1.1.tgz"
+        },
+        "express/commander": {
+            "archive": "http://registry.npmjs.org/commander/-/commander-0.6.1.tgz"
+        },
+        "express/connect": {
+            "archive": "http://registry.npmjs.org/connect/-/connect-2.7.2.tgz"
+        },
+        "express/connect/buffer-crc32": {
+            "archive": "http://registry.npmjs.org/buffer-crc32/-/buffer-crc32-0.1.1.tgz"
+        },
+        "express/connect/bytes": {
+            "archive": "http://registry.npmjs.org/bytes/-/bytes-0.1.0.tgz"
+        },
+        "express/connect/cookie": {
+            "archive": "http://registry.npmjs.org/cookie/-/cookie-0.0.5.tgz"
+        },
+        "express/connect/cookie-signature": {
+            "archive": "http://registry.npmjs.org/cookie-signature/-/cookie-signature-0.0.1.tgz"
+        },
+        "express/connect/debug": {
+            "archive": "http://registry.npmjs.org/debug/-/debug-0.7.0.tgz"
+        },
+        "express/connect/formidable": {
+            "archive": "http://registry.npmjs.org/formidable/-/formidable-1.0.11.tgz"
+        },
+        "express/connect/fresh": {
+            "archive": "http://registry.npmjs.org/fresh/-/fresh-0.1.0.tgz"
+        },
+        "express/connect/pause": {
+            "archive": "http://registry.npmjs.org/pause/-/pause-0.0.1.tgz"
+        },
+        "express/connect/qs": {
+            "archive": "http://registry.npmjs.org/qs/-/qs-0.5.1.tgz"
+        },
+        "express/connect/send": {
+            "archive": "http://registry.npmjs.org/send/-/send-0.1.0.tgz"
+        },
+        "express/cookie": {
+            "archive": "http://registry.npmjs.org/cookie/-/cookie-0.0.5.tgz"
+        },
+        "express/cookie-signature": {
+            "archive": "http://registry.npmjs.org/cookie-signature/-/cookie-signature-0.0.1.tgz"
+        },
+        "express/debug": {
+            "archive": "http://registry.npmjs.org/debug/-/debug-0.7.0.tgz"
+        },
+        "express/fresh": {
+            "archive": "http://registry.npmjs.org/fresh/-/fresh-0.1.0.tgz"
+        },
+        "express/methods": {
+            "archive": "http://registry.npmjs.org/methods/-/methods-0.0.1.tgz"
+        },
+        "express/mkdirp": {
+            "archive": "http://registry.npmjs.org/mkdirp/-/mkdirp-0.3.3.tgz"
+        },
+        "express/range-parser": {
+            "archive": "http://registry.npmjs.org/range-parser/-/range-parser-0.0.4.tgz"
+        },
+        "express/send": {
+            "archive": "http://registry.npmjs.org/send/-/send-0.1.0.tgz"
+        },
+        "express/send/debug": {
+            "archive": "http://registry.npmjs.org/debug/-/debug-0.7.0.tgz"
+        },
+        "express/send/fresh": {
+            "archive": "http://registry.npmjs.org/fresh/-/fresh-0.1.0.tgz"
+        },
+        "express/send/mime": {
+            "archive": "http://registry.npmjs.org/mime/-/mime-1.2.6.tgz"
+        },
+        "express/send/range-parser": {
+            "archive": "http://registry.npmjs.org/range-parser/-/range-parser-0.0.4.tgz"
+        },
+        "fontawesome": {
+            "archive": "https://github.com/FortAwesome/Font-Awesome/tarball/13d5dd373cbf3f2bddd8ac2ee8df3a1966a62d09"
+        },
+        "fuelux": {
+            "archive": "https://github.com/ExactTarget/fuelux/tarball/73a3c7d6e6dcf91e6a80ec7f9d762b0518e67e78"
+        },
+        "fuelux/testem": {
+            "archive": "https://github.com/airportyh/testem/tarball/6fbcb3019a2cde1d826fe66534d575f59e5b89f5"
+        },
+        "fuelux/testem/backbone": {
+            "archive": "http://registry.npmjs.org/backbone/-/backbone-0.9.9.tgz"
+        },
+        "fuelux/testem/backbone/underscore": {
+            "archive": "http://registry.npmjs.org/underscore/-/underscore-1.4.3.tgz"
+        },
+        "fuelux/testem/charm": {
+            "archive": "http://registry.npmjs.org/charm/-/charm-0.0.5.tgz"
+        },
+        "fuelux/testem/colors": {
+            "archive": "http://registry.npmjs.org/colors/-/colors-0.6.0-1.tgz"
+        },
+        "fuelux/testem/commander": {
+            "archive": "http://registry.npmjs.org/commander/-/commander-1.1.1.tgz"
+        },
+        "fuelux/testem/commander/keypress": {
+            "archive": "http://registry.npmjs.org/keypress/-/keypress-0.1.0.tgz"
+        },
+        "fuelux/testem/express": {
+            "archive": "http://registry.npmjs.org/express/-/express-2.5.10.tgz"
+        },
+        "fuelux/testem/express/connect": {
+            "archive": "http://registry.npmjs.org/connect/-/connect-1.9.2.tgz"
+        },
+        "fuelux/testem/express/connect/formidable": {
+            "archive": "http://registry.npmjs.org/formidable/-/formidable-1.0.11.tgz"
+        },
+        "fuelux/testem/express/connect/mime": {
+            "archive": "http://registry.npmjs.org/mime/-/mime-1.2.4.tgz"
+        },
+        "fuelux/testem/express/connect/qs": {
+            "archive": "http://registry.npmjs.org/qs/-/qs-0.4.2.tgz"
+        },
+        "fuelux/testem/express/mime": {
+            "archive": "http://registry.npmjs.org/mime/-/mime-1.2.4.tgz"
+        },
+        "fuelux/testem/express/mkdirp": {
+            "archive": "http://registry.npmjs.org/mkdirp/-/mkdirp-0.3.0.tgz"
+        },
+        "fuelux/testem/express/qs": {
+            "archive": "http://registry.npmjs.org/qs/-/qs-0.4.2.tgz"
+        },
+        "fuelux/testem/fireworm": {
+            "archive": "http://registry.npmjs.org/fireworm/-/fireworm-0.0.8.tgz"
+        },
+        "fuelux/testem/fireworm/async": {
+            "archive": "http://registry.npmjs.org/async/-/async-0.1.22.tgz"
+        },
+        "fuelux/testem/fireworm/minimatch": {
+            "archive": "http://registry.npmjs.org/minimatch/-/minimatch-0.2.9.tgz"
+        },
+        "fuelux/testem/fireworm/minimatch/lru-cache": {
+            "archive": "http://registry.npmjs.org/lru-cache/-/lru-cache-2.0.4.tgz"
+        },
+        "fuelux/testem/fireworm/minimatch/sigmund": {
+            "archive": "http://registry.npmjs.org/sigmund/-/sigmund-1.0.0.tgz"
+        },
+        "fuelux/testem/fireworm/set": {
+            "archive": "http://registry.npmjs.org/set/-/set-1.0.0.tgz"
+        },
+        "fuelux/testem/glob": {
+            "archive": "http://registry.npmjs.org/glob/-/glob-3.0.1.tgz"
+        },
+        "fuelux/testem/glob/fast-list": {
+            "archive": "http://registry.npmjs.org/fast-list/-/fast-list-1.0.2.tgz"
+        },
+        "fuelux/testem/glob/graceful-fs": {
+            "archive": "http://registry.npmjs.org/graceful-fs/-/graceful-fs-1.1.14.tgz"
+        },
+        "fuelux/testem/glob/inherits": {
+            "archive": "http://registry.npmjs.org/inherits/-/inherits-1.0.0.tgz"
+        },
+        "fuelux/testem/glob/minimatch": {
+            "archive": "http://registry.npmjs.org/minimatch/-/minimatch-0.1.5.tgz"
+        },
+        "fuelux/testem/glob/minimatch/lru-cache": {
+            "archive": "http://registry.npmjs.org/lru-cache/-/lru-cache-1.0.6.tgz"
+        },
+        "fuelux/testem/js-yaml": {
+            "archive": "http://registry.npmjs.org/js-yaml/-/js-yaml-0.3.5.tgz"
+        },
+        "fuelux/testem/mustache": {
+            "archive": "http://registry.npmjs.org/mustache/-/mustache-0.4.0.tgz"
+        },
+        "fuelux/testem/rimraf": {
+            "archive": "http://registry.npmjs.org/rimraf/-/rimraf-2.1.1.tgz"
+        },
+        "fuelux/testem/rimraf/graceful-fs": {
+            "archive": "http://registry.npmjs.org/graceful-fs/-/graceful-fs-1.1.14.tgz"
+        },
+        "fuelux/testem/socket.io": {
+            "archive": "http://registry.npmjs.org/socket.io/-/socket.io-0.9.10.tgz"
+        },
+        "fuelux/testem/socket.io/policyfile": {
+            "archive": "http://registry.npmjs.org/policyfile/-/policyfile-0.0.4.tgz"
+        },
+        "fuelux/testem/socket.io/redis": {
+            "archive": "http://registry.npmjs.org/redis/-/redis-0.7.2.tgz"
+        },
+        "fuelux/testem/socket.io/redis/hiredis": {
+            "archive": "http://registry.npmjs.org/hiredis/-/hiredis-0.1.14.tgz"
+        },
+        "fuelux/testem/socket.io/socket.io-client": {
+            "archive": "http://registry.npmjs.org/socket.io-client/-/socket.io-client-0.9.10.tgz"
+        },
+        "fuelux/testem/socket.io/socket.io-client/active-x-obfuscator": {
+            "archive": "http://registry.npmjs.org/active-x-obfuscator/-/active-x-obfuscator-0.0.1.tgz"
+        },
+        "fuelux/testem/socket.io/socket.io-client/active-x-obfuscator/zeparser": {
+            "archive": "http://registry.npmjs.org/zeparser/-/zeparser-0.0.5.tgz"
+        },
+        "fuelux/testem/socket.io/socket.io-client/uglify-js": {
+            "archive": "http://registry.npmjs.org/uglify-js/-/uglify-js-1.2.5.tgz"
+        },
+        "fuelux/testem/socket.io/socket.io-client/ws": {
+            "archive": "http://registry.npmjs.org/ws/-/ws-0.4.25.tgz"
+        },
+        "fuelux/testem/socket.io/socket.io-client/ws/commander": {
+            "archive": "http://registry.npmjs.org/commander/-/commander-0.6.1.tgz"
+        },
+        "fuelux/testem/socket.io/socket.io-client/ws/options": {
+            "archive": "http://registry.npmjs.org/options/-/options-0.0.3.tgz"
+        },
+        "fuelux/testem/socket.io/socket.io-client/ws/tinycolor": {
+            "archive": "http://registry.npmjs.org/tinycolor/-/tinycolor-0.0.1.tgz"
+        },
+        "fuelux/testem/socket.io/socket.io-client/xmlhttprequest": {
+            "archive": "http://registry.npmjs.org/xmlhttprequest/-/xmlhttprequest-1.4.2.tgz"
+        },
+        "fuelux/testem/styled_string": {
+            "archive": "http://registry.npmjs.org/styled_string/-/styled_string-0.0.1.tgz"
+        },
+        "fuelux/testem/tap": {
+            "archive": "http://registry.npmjs.org/tap/-/tap-0.3.2.tgz"
+        },
+        "fuelux/testem/tap/buffer-equal": {
+            "archive": "http://registry.npmjs.org/buffer-equal/-/buffer-equal-0.0.0.tgz"
+        },
+        "fuelux/testem/tap/deep-equal": {
+            "archive": "http://registry.npmjs.org/deep-equal/-/deep-equal-0.0.0.tgz"
+        },
+        "fuelux/testem/tap/difflet": {
+            "archive": "http://registry.npmjs.org/difflet/-/difflet-0.2.3.tgz"
+        },
+        "fuelux/testem/tap/difflet/charm": {
+            "archive": "http://registry.npmjs.org/charm/-/charm-0.0.5.tgz"
+        },
+        "fuelux/testem/tap/difflet/deep-equal": {
+            "archive": "http://registry.npmjs.org/deep-equal/-/deep-equal-0.0.0.tgz"
+        },
+        "fuelux/testem/tap/difflet/traverse": {
+            "archive": "http://registry.npmjs.org/traverse/-/traverse-0.6.3.tgz"
+        },
+        "fuelux/testem/tap/inherits": {
+            "archive": "http://registry.npmjs.org/inherits/-/inherits-1.0.0.tgz"
+        },
+        "fuelux/testem/tap/mkdirp": {
+            "archive": "http://registry.npmjs.org/mkdirp/-/mkdirp-0.3.4.tgz"
+        },
+        "fuelux/testem/tap/nopt": {
+            "archive": "http://registry.npmjs.org/nopt/-/nopt-2.0.0.tgz"
+        },
+        "fuelux/testem/tap/nopt/abbrev": {
+            "archive": "http://registry.npmjs.org/abbrev/-/abbrev-1.0.3.tgz"
+        },
+        "fuelux/testem/tap/runforcover": {
+            "archive": "http://registry.npmjs.org/runforcover/-/runforcover-0.0.2.tgz"
+        },
+        "fuelux/testem/tap/runforcover/bunker": {
+            "archive": "http://registry.npmjs.org/bunker/-/bunker-0.1.2.tgz"
+        },
+        "fuelux/testem/tap/runforcover/bunker/burrito": {
+            "archive": "http://registry.npmjs.org/burrito/-/burrito-0.2.12.tgz"
+        },
+        "fuelux/testem/tap/runforcover/bunker/burrito/traverse": {
+            "archive": "http://registry.npmjs.org/traverse/-/traverse-0.5.2.tgz"
+        },
+        "fuelux/testem/tap/runforcover/bunker/burrito/uglify-js": {
+            "archive": "http://registry.npmjs.org/uglify-js/-/uglify-js-1.1.1.tgz"
+        },
+        "fuelux/testem/tap/slide": {
+            "archive": "http://registry.npmjs.org/slide/-/slide-1.1.3.tgz"
+        },
+        "fuelux/testem/tap/yamlish": {
+            "archive": "http://registry.npmjs.org/yamlish/-/yamlish-0.0.5.tgz"
+        },
+        "fuelux/testem/underscore": {
+            "archive": "http://registry.npmjs.org/underscore/-/underscore-1.4.3.tgz"
+        },
+        "fuelux/testem/winston": {
+            "archive": "http://registry.npmjs.org/winston/-/winston-0.3.4.tgz"
+        },
+        "fuelux/testem/winston/colors": {
+            "archive": "http://registry.npmjs.org/colors/-/colors-0.6.0-1.tgz"
+        },
+        "fuelux/testem/winston/eyes": {
+            "archive": "http://registry.npmjs.org/eyes/-/eyes-0.1.8.tgz"
+        },
+        "fuelux/testem/winston/loggly": {
+            "archive": "http://registry.npmjs.org/loggly/-/loggly-0.3.11.tgz"
+        },
+        "fuelux/testem/winston/loggly/request": {
+            "archive": "http://registry.npmjs.org/request/-/request-2.9.203.tgz"
+        },
+        "fuelux/testem/winston/loggly/timespan": {
+            "archive": "http://registry.npmjs.org/timespan/-/timespan-2.2.0.tgz"
+        },
+        "fuelux/testem/winston/pkginfo": {
+            "archive": "http://registry.npmjs.org/pkginfo/-/pkginfo-0.2.3.tgz"
+        },
+        "hbs": {
+            "archive": "http://registry.npmjs.org/hbs/-/hbs-2.0.2.tgz"
+        },
+        "hbs/handlebars": {
+            "archive": "http://registry.npmjs.org/handlebars/-/handlebars-1.0.9.tgz"
+        },
+        "hbs/handlebars/optimist": {
+            "archive": "http://registry.npmjs.org/optimist/-/optimist-0.3.5.tgz"
+        },
+        "hbs/handlebars/optimist/wordwrap": {
+            "archive": "http://registry.npmjs.org/wordwrap/-/wordwrap-0.0.2.tgz"
+        },
+        "hbs/handlebars/uglify-js": {
+            "archive": "http://registry.npmjs.org/uglify-js/-/uglify-js-1.2.6.tgz"
+        },
+        "jquery": {
+            "archive": "http://code.jquery.com/jquery-1.9.1.min.js"
+        }
+    }
+}
