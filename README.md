@@ -9,6 +9,7 @@ Frontend:
   * [http://jquery.com/](http://jquery.com/)
   * [http://fortawesome.github.com/Font-Awesome](http://fortawesome.github.com/Font-Awesome)
   * [http://exacttarget.github.com/fuelux](http://exacttarget.github.com/fuelux)
+  * [http://icondock.com/free/vector-social-media-icons](http://icondock.com/free/vector-social-media-icons)
 
 Backend:
 
@@ -36,6 +37,7 @@ Resources:
 Tutorials:
 
   * http://24ways.org/2012/how-to-make-your-site-look-half-decent/
+  * http://browserdiet.com/
 
 Design:
 

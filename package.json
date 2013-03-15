@@ -8,17 +8,24 @@
         "responder.js": "./responder.js"
     },
     "dependencies": {
+        "pinf": "~0.2.14",
         "express": "~3.1.0",
-        "hbs": "~2.0.2"
+        "hbs": "~2.0.2",
+        "request": "~2.14.0",
+        "glob": "3.1.21"
     },
     "mappings": {
         "boilerplate": "github.com/h5bp/html5-boilerplate/~4.1.0",
         "bootstrap": "github.com/twitter/bootstrap/~2.3.1",
+        "sm-util": "github.com/sourcemint/sm-util/~0.1.8"
+    },
+    "optionalMappings": {
         "jquery": [
             "url",
             "http://code.jquery.com/jquery-1.9.1.min.js"
         ],
         "fontawesome": "http://github.com/FortAwesome/Font-Awesome/~3.0.2",
-        "fuelux": "github.com/ExactTarget/fuelux/~2.3.0"
+        "fuelux": "github.com/ExactTarget/fuelux/~2.3.0",
+        "icondock-social-media-icons": ["archive", "http://icondock.com/files/vector-social-media-icons.zip"]
     }
 }

@@ -1,0 +1,5 @@
+{
+	"scripts": {
+		"run": "node $__DIRNAME/server.js"
+	}
+}
