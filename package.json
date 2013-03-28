@@ -26,6 +26,7 @@
         ],
         "fontawesome": "http://github.com/FortAwesome/Font-Awesome/~3.0.2",
         "fuelux": "github.com/ExactTarget/fuelux/~2.3.0",
-        "icondock-social-media-icons": ["archive", "http://icondock.com/files/vector-social-media-icons.zip"]
+        "icondock-social-media-icons": ["archive", "http://icondock.com/files/vector-social-media-icons.zip"],
+        "famfamfam-flag-icons": ["archive", "http://www.famfamfam.com/lab/icons/flags/famfamfam_flag_icons.zip"]
     }
 }

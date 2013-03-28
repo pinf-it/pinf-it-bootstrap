@@ -10,6 +10,7 @@ Frontend:
   * [http://fortawesome.github.com/Font-Awesome](http://fortawesome.github.com/Font-Awesome)
   * [http://exacttarget.github.com/fuelux](http://exacttarget.github.com/fuelux)
   * [http://icondock.com/free/vector-social-media-icons](http://icondock.com/free/vector-social-media-icons)
+  * [http://www.famfamfam.com/lab/icons/flags/](http://www.famfamfam.com/lab/icons/flags/)
 
 Backend:
 
@@ -69,3 +70,7 @@ Design:
   * Buttons:
 
     * http://charliepark.org/bootstrap_buttons/
+
+  * Ribbons:
+
+    * https://github.com/blog/273-github-ribbons
