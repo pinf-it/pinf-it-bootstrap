@@ -326,7 +326,7 @@
             "archive": "http://registry.npmjs.org/sigmund/-/sigmund-1.0.0.tgz"
         },
         "hbs": {
-            "archive": "http://registry.npmjs.org/hbs/-/hbs-2.0.2.tgz"
+            "archive": "http://registry.npmjs.org/hbs/-/hbs-2.1.0.tgz"
         },
         "hbs/handlebars": {
             "archive": "http://registry.npmjs.org/handlebars/-/handlebars-1.0.9.tgz"
